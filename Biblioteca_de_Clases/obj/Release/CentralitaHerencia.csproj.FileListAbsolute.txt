@@ -1,0 +1,2 @@
+C:\Users\miran\source\repos\CentralTelefonica\Biblioteca_de_Clases\obj\Release\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\CentralTelefonica\Biblioteca_de_Clases\obj\Release\CentralitaHerencia.csprojAssemblyReference.cache
